@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\Python37\\python.exe",
+    "git.allowForcePush": true,
+    "git.promptToSaveFilesBeforeCommit": true,
+    "mssql.connections": [
+        {
+          "server": "{{localhost}}",
+          "database": "{{test}}",
+          "user": "{{si_test}}",
+          "password": "{{si_test}}"
+        }
+        ],
+        "python.unitTest.pyTestArgs": [
+          "."
+        ],
+        "python.unitTest.unittestEnabled": false,
+        "python.unitTest.nosetestsEnabled": false,
+        "python.unitTest.pyTestEnabled": true
+}

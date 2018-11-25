@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.allowForcePush": true,
+		"python.pythonPath": "C:\\Python37\\python.exe"
+	},
+	"settings": {
+		"git.allowForcePush": true,
+		"sqlcmd.sqlcmdPatch": "D:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\sqlcmd.exe"
+	}
+}
